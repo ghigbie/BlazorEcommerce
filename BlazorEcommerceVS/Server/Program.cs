@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.ResponseCompression;
+﻿global using BlazorEcommerceVS.Shared;
+using Microsoft.AspNetCore.ResponseCompression;
 
 var builder = WebApplication.CreateBuilder(args);
 

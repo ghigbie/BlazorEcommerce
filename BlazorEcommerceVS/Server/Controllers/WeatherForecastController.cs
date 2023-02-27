@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿global using BlazorEcommerceVS.Shared;
+using Microsoft.AspNetCore.Mvc;
 using BlazorEcommerceVS.Shared;
 
 namespace BlazorEcommerceVS.Server.Controllers;
